@@ -1,7 +1,7 @@
 # 🇧🇷 Political Volatility as an Asset Class
 ### The 'Smart Seasonal' Strategy for Brazil
 
-**Author:** Vinicius Luiz | Allez Invest
+**Author:** Vinicius Luiz 
 
 ---
 
